@@ -10,6 +10,9 @@
 
 **🔗 Live Demo → [react-hotel-bookingmanagement.netlify.app](https://react-hotel-bookingmanagement.netlify.app)**
 
+- username: kartik@example.com
+- password: pass1234
+
 ---
 
 ## 📸 Preview
